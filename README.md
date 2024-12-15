@@ -6,6 +6,7 @@ A creative virtual painting application that allows users to create art using va
 
 - **Real-time painting**: Paint on a canvas with a brush.
 - **Colours**: Choose from 4 different colours.
+- **Change Brush Size**: Brush size and eraser size can be changed independently.
 - **Clear everything**: Clear the canvas with the clear button.
 - **Easy to use**: Contains a built in help menu to help you if you're stuck.
 
